@@ -8,6 +8,11 @@ Requires Sass CLI
 In terminal, type: 
 sh script.sh
 
-### Test Data
-scss/ files taken from Ionic.io library
+### Testing
+
+In terminal, type
+sh test.sh
+
+Test files from sample-scss\* will be converted to sass in the sass folder.
+\* Sample scss/ files taken from Ionic.io library
 
